@@ -1,3 +1,5 @@
+### AudioOCR Connect - Backend e Aplicação Mobile com reconhecimento óptico de caracteres (OCR) em ### imagem com a geração de áudio do texto contigo na imagem.
+
 ### Projeto responsável por capturar texto de uma imagem ### utilizando a câmera de um celular e reproduzir o texto em ### forma de áudio, catalogando tanto o texto quanto o áudio.
 ### Para começar, ative o ambiente virtual:
 
